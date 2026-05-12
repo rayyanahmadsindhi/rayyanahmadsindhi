@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rayyan Ahmad Sindhi.
 - 👀 I’m interested in Web and game development. 
 - 🌱 I’m currently learning Java OOPS.
-- 📫 You can contact me on my instagram or tiktik."Insta id:rayyan_ahmad_sindhi_7" Tiktok id:"rayyanayyan01"
+- 📫 You can contact me on my instagram or tiktok."Insta id:rayyan_ahmad_sindhi_7" Tiktok id:"rayyanayyan01"
 - ⚡ Fun fact: I am student.
 
 <!---
